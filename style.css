@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+.blockquote li{
+    border: 20px;
+}
